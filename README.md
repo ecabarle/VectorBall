@@ -1,4 +1,4 @@
 VectorBall
 ==========
 
-ball that moves realistically when touched by mouse
+ball that moves realistically
